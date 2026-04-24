@@ -56,7 +56,7 @@ The goal is to move from reactive management to **data-driven decision-making** 
 
 ### 📂 How to Run This Project
 
-1.  Download the **`manoj powebi.pbix`** file from this repository.
+1.  Download the **`risha.pbix`** file from this repository.
 2.  Open the file in **Microsoft Power BI Desktop**.
 3.  Interact with the slicers (Department, Age Group, Gender) on the right side to filter the data.
 
