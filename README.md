@@ -64,5 +64,5 @@ The goal is to move from reactive management to **data-driven decision-making** 
 
 ### 👤 Author
 
-Reddi Manoj Aspiring Data Analyst | Power BI Developer*
+Risha Dubey Aspiring Data Analyst | Power BI Developer*
 
